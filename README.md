@@ -1,2 +1,3 @@
 # base_react_app
-Base React App
+
+This repository contains personal notes and practice React apps
